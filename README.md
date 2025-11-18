@@ -1,5 +1,6 @@
 # Quark
-Simple Typescript-based game engine designed to work seamlessly with React.
+Simple Typescript-based game engine designed to work seamlessly with React that I made to learn more about linear algebra and 3d graphics.
+Its not good, but like that's not really the point
 
 ![image](https://lh7-us.googleusercontent.com/oyhTe-TO045ILo-oNXHEMDxYKVbqyPrWUMdBYru-3zNSxLhEBNoJ4EwYx98QYa5J1KBYUASRDtaPJuqN9x9w0AHjBa9J66ZsX2Fu4SQeKXimRJPOOUMUvlAGsFlWblZU_UzCu-pbMyD9deQLhBnSA3E)
 
@@ -193,4 +194,4 @@ export default ThreeDScene;
 ### What is .qrkmez?
 
 A .qrkmez or **Q**ua**rk** **mez**anine file is a file containing only the verticies and normals of a 3d model.
-We use this format, which is simply a text file, to simplify loading 3d models.
+I don't think I got around to fully implementing this
